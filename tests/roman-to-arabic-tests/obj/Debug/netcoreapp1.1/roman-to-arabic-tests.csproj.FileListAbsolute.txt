@@ -1,0 +1,13 @@
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/bin/Debug/netcoreapp1.1/roman-to-arabic-tests.deps.json
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/bin/Debug/netcoreapp1.1/roman-to-arabic-tests.runtimeconfig.json
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/bin/Debug/netcoreapp1.1/roman-to-arabic-tests.runtimeconfig.dev.json
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/bin/Debug/netcoreapp1.1/roman-to-arabic-tests.dll
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/bin/Debug/netcoreapp1.1/roman-to-arabic-tests.pdb
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/obj/Debug/netcoreapp1.1/roman-to-arabic-tests.AssemblyInfo.cs
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/obj/Debug/netcoreapp1.1/roman-to-arabic-tests.dll
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/obj/Debug/netcoreapp1.1/roman-to-arabic-tests.pdb
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/bin/Debug/netcoreapp1.1/roman-to-arabic.dll
+/Users/douglas/code/roman-to-arabic/tests/roman-to-arabic-tests/bin/Debug/netcoreapp1.1/roman-to-arabic.pdb

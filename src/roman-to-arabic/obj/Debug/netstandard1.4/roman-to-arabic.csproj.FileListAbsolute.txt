@@ -1,0 +1,6 @@
+/Users/douglas/code/roman-to-arabic/src/roman-to-arabic/bin/Debug/netstandard1.4/roman-to-arabic.deps.json
+/Users/douglas/code/roman-to-arabic/src/roman-to-arabic/bin/Debug/netstandard1.4/roman-to-arabic.dll
+/Users/douglas/code/roman-to-arabic/src/roman-to-arabic/bin/Debug/netstandard1.4/roman-to-arabic.pdb
+/Users/douglas/code/roman-to-arabic/src/roman-to-arabic/obj/Debug/netstandard1.4/roman-to-arabic.AssemblyInfo.cs
+/Users/douglas/code/roman-to-arabic/src/roman-to-arabic/obj/Debug/netstandard1.4/roman-to-arabic.dll
+/Users/douglas/code/roman-to-arabic/src/roman-to-arabic/obj/Debug/netstandard1.4/roman-to-arabic.pdb
