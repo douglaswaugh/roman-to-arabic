@@ -6,24 +6,27 @@ namespace roman_to_arabic_tests
 {
     public class UnitTest1
     {
-        [Fact]
-        public void Should_return_0_for_empty_string()
+        [Theory]
+        [InlineData("", 0)]
+        [InlineData("I", 1)]
+        [InlineData("II", 2)]
+        [InlineData("IV", 4)]
+        [InlineData("V", 5)]
+        [InlineData("X", 10)]
+        [InlineData("XXX", 30)]
+        [InlineData("L", 50)]
+        [InlineData("C", 100)]
+        [InlineData("D", 500)]
+        [InlineData("M", 1000)]
+        [InlineData("MDCLXVI", 1666)]
+        [InlineData("MCMXCIX", 1999)]
+        public void Should_return_expected_arabic_for_numeral(string numeral, int expectedArabic)
         {
             var romanNumerals = new RomanNumerals();
 
-            var arabic = romanNumerals.Convert(string.Empty);
-            
-            Assert.Equal(0, arabic);
-        }
+            var arabic = romanNumerals.Convert(numeral);
 
-        [Fact]
-        public void Should_return_I_for_1()
-        {
-            var romanNumerals = new RomanNumerals();
-
-            var arabic = romanNumerals.Convert("I");
-
-            Assert.Equal(1, arabic);
+            Assert.Equal(expectedArabic, arabic);
         }
     }
 }
